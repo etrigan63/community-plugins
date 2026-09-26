@@ -3078,8 +3078,8 @@ tags = ["bar", "indicator", "niri", "productivity", "system"]
 [[plugin]]
 id = "etrigan63/rum-updates"
 name = "RUM Updates"
-version = "0.1.4"
-updated_at = 1790381127
+version = "0.1.5"
+updated_at = 1790426889
 added_at = 1790381127
 author = "etrigan63"
 license = "MIT"

@@ -3074,3 +3074,16 @@ description = "Shows proportional maps of the active Niri workspaces and their w
 deprecated = false
 plugin_api = 17
 tags = ["bar", "indicator", "niri", "productivity", "system"]
+
+[[plugin]]
+id = "etrigan63/rum-updates"
+name = "RUM Updates"
+version = "0.1.4"
+updated_at = 1790381127
+added_at = 1790381127
+author = "etrigan63"
+license = "MIT"
+icon = "download"
+description = "Monitor and manage RakuOS updates with rum."
+plugin_api = 3
+tags = ["system", "utility"]

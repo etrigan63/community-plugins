@@ -184,6 +184,7 @@ body:
         - remmina
         - rss-notifier
         - ruh-vpn
+        - rum-updates
         - run-path
         - screen-toolkit
         - share-wifi
